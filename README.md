@@ -35,14 +35,35 @@
 ### 🛠 Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧩_LLM_Agents_%26_RAG-grey?style=for-the-badge"/>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_Search-00BCD4?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🗣_NLP_%26_Analytics-grey?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LDA_Topic_Modelling-E91E63?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentiment_Analysis-4CAF50?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📈_Quant_%26_Data-grey?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithmic_Trading-1565C0?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backtesting-2E7D32?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time--Series-F57F17?style=for-the-badge&logoColor=white"/>
 </p>
