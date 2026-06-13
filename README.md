@@ -24,9 +24,11 @@
 
 ### 💼 Experience
 
-🏛️ **Indian Institute of Management Calcutta** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; Jun–Jul 2025
+🏛️ **Indian Institute of Management Calcutta** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; Jun – Jul 2025
 
-📈 **WorldQuant LLC** &nbsp;·&nbsp; Part-time Research Consultant &nbsp;·&nbsp; Jan 2024–Jan 2025
+🏛️ **Unstop Inc** &nbsp;·&nbsp; Intern &nbsp;·&nbsp; Nov 2024 – Jan 2025
+
+📈 **WorldQuant LLC** &nbsp;·&nbsp; Part-time Research Consultant &nbsp;·&nbsp; Jan 2024 – Jan 2025
 
 🏆 **Inter IIT Tech Meet 13.0** &nbsp;·&nbsp; ISRO Problem Statement — Rank 9 Nationally
 
