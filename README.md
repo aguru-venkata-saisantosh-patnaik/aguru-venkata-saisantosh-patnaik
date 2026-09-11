@@ -50,7 +50,7 @@
 
 🎪 **Core Head, Wissenaire** &nbsp;·&nbsp; IIT Bhubaneswar &nbsp;·&nbsp; 2023–24
 
-💰 **Head of Finance, FEBS** &nbsp;·&nbsp; IIT Bhubaneswar
+💰 **Head of Finance, FEBS** &nbsp;·&nbsp; IIT Bhubaneswar &nbsp;·&nbsp; 2023–24
 
 ---
 
