@@ -20,7 +20,7 @@
 
 ### 💼 Experience
 
-🏢 **Bharat Petroleum Corporation Limited** &nbsp;·&nbsp; ML Project Engagement &nbsp;·&nbsp; Jul – Sep 2026
+🏢 **Bharat Petroleum Corporation Limited** &nbsp;·&nbsp; AI Consultant &nbsp;·&nbsp; Jul – Sep 2026
 
 🏛️ **Indian Institute of Management Ahmedabad** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; May – Jul 2026
 
@@ -28,7 +28,9 @@
 
 🏛️ **Unstop Inc** &nbsp;·&nbsp; Intern &nbsp;·&nbsp; Nov 2024 – Jan 2025
 
-📈 **WorldQuant LLC** &nbsp;·&nbsp; Part-time Research Consultant &nbsp;·&nbsp; Jan 2024 – Jan 2025
+---
+
+### 🏆 Achievements
 
 🏆 **Inter IIT Tech Meet 13.0** &nbsp;·&nbsp; ISRO Problem Statement — Rank 9 Nationally
 
