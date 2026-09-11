@@ -32,6 +32,8 @@
 
 ### 🏆 Achievements
 
+🤗 **[TripMind Models](https://github.com/aguru-venkata-saisantosh-patnaik/Agentic-LLM-System_MCP-Orchestration-Fine-Tuning-and-Comparative-Evaluation)** &nbsp;·&nbsp; 2,250+ downloads on Hugging Face &nbsp;·&nbsp; 2026
+
 🏆 **Inter IIT Tech Meet 13.0** &nbsp;·&nbsp; ISRO Problem Statement, Rank 9 Nationally &nbsp;·&nbsp; 2024
 
 🏆 **IPMAT** &nbsp;·&nbsp; AIR 16 &nbsp;·&nbsp; 2021
