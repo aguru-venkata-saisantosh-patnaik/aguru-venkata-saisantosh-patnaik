@@ -32,7 +32,25 @@
 
 ### 🏆 Achievements
 
-🏆 **Inter IIT Tech Meet 13.0** &nbsp;·&nbsp; ISRO Problem Statement — Rank 9 Nationally
+🏆 **Inter IIT Tech Meet 13.0** &nbsp;·&nbsp; ISRO Problem Statement, Rank 9 Nationally &nbsp;·&nbsp; 2024
+
+🏆 **IPMAT** &nbsp;·&nbsp; AIR 16 &nbsp;·&nbsp; 2021
+
+🏆 **AP CET** &nbsp;·&nbsp; Rank 189 &nbsp;·&nbsp; 2021
+
+🏆 **NASA Space Settlement Design Contest** &nbsp;·&nbsp; Global Rank 1 &nbsp;·&nbsp; 2019
+
+🏆 **Abacus Championship, Karnataka** &nbsp;·&nbsp; Rank 1 &nbsp;·&nbsp; 2017
+
+---
+
+### 🧭 Positions of Responsibility
+
+🎤 **Governor, Nakshatra** &nbsp;·&nbsp; IIT Bhubaneswar &nbsp;·&nbsp; 2023–24
+
+🎪 **Core Head, Wissenaire** &nbsp;·&nbsp; IIT Bhubaneswar &nbsp;·&nbsp; 2023–24
+
+💰 **Head of Finance, FEBS** &nbsp;·&nbsp; IIT Bhubaneswar
 
 ---
 
