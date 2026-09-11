@@ -38,7 +38,7 @@
 
 🏆 **IPMAT** &nbsp;·&nbsp; AIR 16 &nbsp;·&nbsp; 2021
 
-🏆 **AP CET** &nbsp;·&nbsp; Rank 189 &nbsp;·&nbsp; 2021
+🏆 **AP EAMCET** &nbsp;·&nbsp; Rank 189 &nbsp;·&nbsp; 2021
 
 🏆 **NASA Space Settlement Design Contest** &nbsp;·&nbsp; Global Rank 1 &nbsp;·&nbsp; 2019
 
