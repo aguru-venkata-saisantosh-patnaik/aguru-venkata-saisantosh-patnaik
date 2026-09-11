@@ -1,10 +1,6 @@
 <h1 align="center">Hey, I'm Saisantosh 👋</h1>
 
 <p align="center">
-  <b>ML & AI Engineer &nbsp;·&nbsp; Data Science &nbsp;·&nbsp; Quantitative Systems</b>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/avssp/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -23,6 +19,10 @@
 ---
 
 ### 💼 Experience
+
+🏢 **Bharat Petroleum Corporation Limited** &nbsp;·&nbsp; ML Project Engagement &nbsp;·&nbsp; Jul – Sep 2026
+
+🏛️ **Indian Institute of Management Ahmedabad** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; May – Jul 2026
 
 🏛️ **Indian Institute of Management Calcutta** &nbsp;·&nbsp; Research Intern &nbsp;·&nbsp; Jun – Jul 2025
 
@@ -58,14 +58,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📈_Quant_%26_Data-grey?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊_Data_Science-grey?style=for-the-badge"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithmic_Trading-1565C0?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backtesting-2E7D32?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Time--Series-F57F17?style=for-the-badge&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📌_Product_%26_Analyst_Tools-grey?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/A%2FB_Testing-673AB7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel_%2F_Google_Sheets-217346?style=for-the-badge&logoColor=white"/>
 </p>
